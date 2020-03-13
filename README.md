@@ -1,21 +1,16 @@
-### Theme [ **New** ]
+### Theme [ **X** ]
 
 ![预览图][1]
+![预览图][2]
 
-话说写主题介绍什么的最烦了 QWQ  
-那么!~ 就直入主题好了!
 
-### QAQ
+### 特色
 
-- 主要对界面进行了大修改  
-- 增加了两种首页样式，so 现在是4种首页样式
-（大图模式、瀑布流、简洁单栏、简洁双栏）
-- ajax评论
-- 短代码支持
-- 完善的后台设置（能加上的应该都有了）
-- 其他细节
-- ...
-
+- 增加了瀑布流首页样式[推荐],现有大图模式、瀑布流、简洁单栏、简洁双栏
+![预览图][6]
+- 魔改（美化）了头部和底部导航
+![预览图][7]
+![预览图][8]
 
 ### 使用说明
 
@@ -44,25 +39,22 @@ imgurl [ 必填 ]
 
 tu  [可不填]  
 
-### 声明
+### 声明：本主题为季悠然大佬的G主题的 魔改版
 
-本主题为**季悠然**大佬的 G / 魔改版
+### 作者博客 ↓
 
-在其主题原基础进行修改，原主题该有的依然保留了
+[The Sky][4]
+[作者原文[9]
 
-### 演示地址 ↓
-
-[beta.fateso.com][3]
-
-### 详细说明 ↓
-
-[fateso.com][4]
-
-  [1]: https://i.cnm.im/2019/09/04/5d6fc0381aae1.png
+  [1]: https://sky-1252500346.cos.ap-beijing.myqcloud.com/2020/03/13/1584106265.jpg
   [2]: https://cnm666.oss-cn-hongkong.aliyuncs.com/2019/09/04/5d6fad6805129.png
   [3]: http://beta.fateso.com/
-  [4]: https://fateso.com/
-
+  [4]: https://thebluesky.top/
+  [5]: https://sky-1252500346.cos.ap-beijing.myqcloud.com/2020/03/13/1584106266.jpg
+ [6]:https://sky-1252500346.cos.ap-beijing.myqcloud.com/2020/03/13/1584095467.jpg
+ [7]:https://sky-1252500346.cos.ap-beijing.myqcloud.com/2020/03/13/1584095565.jpg
+ [8]:https://sky-1252500346.cos.ap-beijing.myqcloud.com/2020/03/13/1584095582.jpg
+ [9]:https://thebluesky.top/index.php/typecho/380.html
 ## 原主题配置：
 
 因为原主题的功能都保留了下来，所以原主题有的功能请看原作者的文档：
