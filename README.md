@@ -44,7 +44,7 @@ tu  [可不填]
 ### 作者博客 ↓
 
 [The Sky][4]
-[作者原文[9]
+[作者原文][9]
 
   [1]: https://sky-1252500346.cos.ap-beijing.myqcloud.com/2020/03/13/1584106265.jpg
   [2]: https://cnm666.oss-cn-hongkong.aliyuncs.com/2019/09/04/5d6fad6805129.png
